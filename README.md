@@ -34,13 +34,19 @@ Handling Class Imbalance
 
 ## 4. Modeling
 The Random Forest Classifier model has an accuracy of 0.8150 and an F1 score of 0.8081
-In terms of accuracy, the random forest classifier has a higher accuracy score of 0.81 compared to the other 4 models, which had accuracy scores of 0.75 (gradient boosting), 0.76 (KNN), 0.72 (decision tree), and 0.70 (logistic regression).
-In terms of the F1 score, the random forest classifier has a higher F1 score of 0.81 compared to the other 4 models, which had F1 scores of 0.74 (gradient boosting), 0.75 (KNN), 0.70 (decision tree), and 0.68 (logistic regression).
-Based on these results, the random forest classifier appears to be performing the best among the 5 models. 
+
+In terms of accuracy, the random forest classifier has a higher accuracy score of 0.81 compared to the other 4 models, (gradient boosting, KNN, decision tree, logistic regression)
+
+In terms of the F1 score, the random forest classifier has a higher F1 score of 0.81 compared to the other 4 models
+
+Based on these results, the random forest classifier appears to be performing the best among the models
+
 Hyperparameter tuning and cross-validation is performed because they help to optimize the model performance and prevent overfitting or underfitting.
 The randomized search cross-validation helps to perform an efficient search for the optimal hyperparameters and cross-validate the model, which leads to better model performance and robustness.
+
 The accuracy of the model is 0.82424, which means that the model correctly predicted the class label of 82.4% of the test data instances.
 The F1 score is 0.8157. A higher F1 score indicates a better performance of the model.
+
 This tuned model has better performance metrics and hence a good model.
 
  
