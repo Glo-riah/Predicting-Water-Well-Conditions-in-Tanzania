@@ -183,7 +183,7 @@ The images from EDA can be found here https://github.com/Glo-riah/Predicting-Wat
 
 The notebook that contains the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Water%20Wells%20Condition.ipynb
 
-The presentation for this project can be found herehttps://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(3).pdf and the video presentation is here https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+The presentation for this project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(3).pdf and the video presentation is here https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 The data report can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Tanzania%20Report%20(1).pdf
 
