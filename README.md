@@ -142,19 +142,19 @@ Uniformity - Handling Missing Values
 
 ## 4. Modeling
 
-The Random Forest Classifier model has an accuracy of 0.8185 and an F1 score of 0.8110
+The Random Forest Classifier model has an accuracy of 0.8126 and an F1 score of 0.8059
 
-In terms of accuracy, the random forest classifier has a higher accuracy score of 0.82 compared to the other 4 models, which had accuracy scores of 0.76 (gradient boosting),    0.76 (KNN), 0.75 (decision tree), and 0.66 (logistic regression).
+In terms of accuracy, the random forest classifier has a higher accuracy score of 0.81 compared to the other 4 models, which had accuracy scores of 0.76 (gradient boosting), 0.77 (KNN), 0.75 (decision tree), and 0.65 (logistic regression).
 
-In terms of the F1 score, the random forest classifier has a higher F1 score of 0.81 compared to the other 4 models, which had F1 scores of 0.74 (gradient boosting), 0.75 (KNN), 0.75 (decision tree), and 0.63 (logistic regression).
+In terms of the F1 score, the random forest classifier has a higher F1 score of 0.81 compared to the other 4 models, which had F1 scores of 0.74 (gradient boosting), 0.76 (KNN), 0.76 (decision tree), and 0.62 (logistic regression).
 
-Based on these results, the random forest classifier appears to be performing the best among the 5 models. 
+Based on these results, the random forest classifier appears to be performing the best among the 5 models.
 
 Hyperparameter tuning and cross-validation is performed because they help to optimize the model performance and prevent overfitting or underfitting.
 The randomized search cross-validation helps to perform an efficient search for the optimal hyperparameters and cross-validate the model, which leads to better model performance and robustness.
 
-The accuracy of the model is 0.8221, which means that the model correctly predicted the class label of 82.2% of the test data instances.
-The F1 score is 0.8135. A higher F1 score indicates a better performance of the model.
+The accuracy of the model is 0.8229, which means that the model correctly predicted the class label of 82.29% of the test data instances.
+The F1 score is 0.8150. A higher F1 score indicates a better performance of the model.
 
 This tuned model has better performance metrics and hence a good model.
 
@@ -183,7 +183,7 @@ The images from EDA can be found here https://github.com/Glo-riah/Predicting-Wat
 
 The notebook that contains the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Water%20Wells%20Condition.ipynb
 
-The presentation for this project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(2).pdf and the video presentation is here https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+The presentation for this project can be found herehttps://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(3).pdf and the video presentation is here https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-The data report can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Tanzania%20Report.pdf
+The data report can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Tanzania%20Report%20(1).pdf
 
