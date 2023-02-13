@@ -179,7 +179,7 @@ The model could be further improved by incorporating more data especially for th
 
 The data used for the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Data
 
-The images from EDA can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Images.
+The images from EDA can be found here (https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Images.)
 
 The notebook that contains the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Water%20Wells%20Condition.ipynb
 
