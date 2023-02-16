@@ -177,13 +177,13 @@ The model could be further improved by incorporating more data especially for th
  
  # Repository Guide
 
-The data used for the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Data
+The data used for the project can be found here: [data](https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Data)
 
-The images from EDA can be found here (https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Images.)
+The images from EDA can be found here: [images](https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/tree/main/Images.)
 
-The notebook that contains the project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Water%20Wells%20Condition.ipynb
+The notebook that contains the project can be found here: [notebook](https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Water%20Wells%20Condition.ipynb)
 
-The presentation for this project can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(3).pdf and the video presentation is here https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+The presentation for this project can be found here: [pdf](https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Slides%20(Prediction%20of%20Tanzania%20Water%20Wells)%20(3).pdf) and the video presentation is here: [video](https://www.canva.com/design/DAFaYjtM0_g/R__Sto5GrgNfp6NdISKmzg/view?utm_content=DAFaYjtM0_g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-The data report can be found here https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Tanzania%20Report%20(1).pdf
+The data report can be found here: [report](https://github.com/Glo-riah/Predicting-Water-Well-Conditions-in-Tanzania/blob/main/Tanzania%20Report%20(1).pdf)
 
